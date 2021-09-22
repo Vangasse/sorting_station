@@ -2,6 +2,7 @@
 [About the Project](#project)  
 [Implementation Logical Description](#logic)  
 [Adress Table](#addressing)  
+[Material](#material)
 [Results](#results)
 
 # Sorting Station
@@ -108,6 +109,12 @@ The table below contains the compontent adresses used in the implementation.
 | Timmer 2 Valve  | Bool |  %Q1.5  |
 | Timmer 3 Valve  | Bool |  %Q1.6  |
 
+<a name="material"/>
+
+## Material
+
+- [SortinStation](https://github.com/Vangasse/sorting_station/tree/main/SortinStation): Contains the TIA Portal V15 project;
+- [Sorting Station.factoryio]: Contains the schene from Factory IO.
 
 <a name="results"/>
 
