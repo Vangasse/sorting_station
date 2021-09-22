@@ -2,7 +2,7 @@
 [About the Project](#project)  
 [Implementation Logical Description](#logic)  
 [Adress Table](#addressing)  
-[Material](#material)
+[Material](#material)  
 [Results](#results)
 
 # Sorting Station
@@ -114,7 +114,7 @@ The table below contains the compontent adresses used in the implementation.
 ## Material
 
 - [SortinStation](https://github.com/Vangasse/sorting_station/tree/main/SortinStation): Contains the TIA Portal V15 project;
-- [Sorting Station.factoryio]: Contains the schene from Factory IO.
+- [Sorting Station.factoryio](https://github.com/Vangasse/sorting_station/blob/main/Sorting%20Station.factoryio): Contains the schene from Factory IO.
 
 <a name="results"/>
 
