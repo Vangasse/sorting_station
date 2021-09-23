@@ -122,5 +122,6 @@ The table below contains the compontent adresses used in the implementation.
 
 The image below contains a link to a video of the results:
 
-[![Sorting Station w/ Color Sensor Video](https://i9.ytimg.com/vi/B6Ax-FoA5KM/mq2.jpg?sqp=CJztrooG&rs=AOn4CLCx62aSCoiNZK_gegx9UDh2xfngng)](https://youtu.be/B6Ax-FoA5KM)
+[![Sorting Station w/ Color Sensor Video](https://img.youtube.com/vi/B6Ax-FoA5KM/0.jpg)](https://youtu.be/B6Ax-FoA5KM)
+[Sorting Station w/ Color Sensor Video](https://youtu.be/B6Ax-FoA5KM)
 
